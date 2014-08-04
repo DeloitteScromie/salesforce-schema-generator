@@ -9,6 +9,7 @@ We've only tested this on a Mac. Articles in the [Acknowledgements](#acknowledge
 
 * [Java 5 or higher](http://www.oracle.com/technetwork/java/javase/downloads/index.html) (Java that is preinstalled on a Mac will probably do just fine)
 * [Graphviz](http://www.graphviz.org/Download_macos.php) (if you have [Homebrew](http://brew.sh/) installed, just use `brew install graphviz`)
+* Working knowledge of how to run shell scripts on a Mac (e.g., make a `*.sh` file executable)
 
 # Usage
 
