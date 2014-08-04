@@ -37,4 +37,4 @@ fi
 
 java -cp $CP net.sourceforge.schemaspy.Main \
   -t force -hq -norows -charset utf8 -u $username -p $password \
-  -o docs -connprops "custom\\=true\;standard\\=true"
+  -o docs -connprops "standard\\=true"
