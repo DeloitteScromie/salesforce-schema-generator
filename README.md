@@ -27,7 +27,7 @@ This is largely based on:
 
 * Chris Wolf's [Generating Salesforce Entity Relationship Diagrams](http://chriswolf.heroku.com/articles/2011/01/30/generating-salesforce-entity-relationship-diagrams/) blog post -- we really liked the post, but didn't like how passwords were handled
 * **force-metadata-jdbc-driver**'s [UsageForV2](https://code.google.com/p/force-metadata-jdbc-driver/wiki/UsageForV2) wiki article
-* William E. Shotts, Jr.'s [Positional Parameters](http://linuxcommand.org/wss0130.php) article
+* William E. Shotts, Jr.'s [Positional Parameters](http://linuxcommand.org/lc3_wss0120.php) article
 
 # License
 
