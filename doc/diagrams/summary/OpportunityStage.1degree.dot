@@ -1,0 +1,44 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "OpportunityStage" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "OpportunityStage" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">OpportunityStage</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="MasterLabel" COLSPAN="3" ALIGN="LEFT">MasterLabel</TD></TR>
+      <TR><TD PORT="IsActive" COLSPAN="3" ALIGN="LEFT">IsActive</TD></TR>
+      <TR><TD PORT="SortOrder" COLSPAN="3" ALIGN="LEFT">SortOrder</TD></TR>
+      <TR><TD PORT="IsClosed" COLSPAN="3" ALIGN="LEFT">IsClosed</TD></TR>
+      <TR><TD PORT="IsWon" COLSPAN="3" ALIGN="LEFT">IsWon</TD></TR>
+      <TR><TD PORT="ForecastCategory" COLSPAN="3" ALIGN="LEFT">ForecastCategory</TD></TR>
+      <TR><TD PORT="ForecastCategoryName" COLSPAN="3" ALIGN="LEFT">ForecastCategoryName</TD></TR>
+      <TR><TD PORT="DefaultProbability" COLSPAN="3" ALIGN="LEFT">DefaultProbability</TD></TR>
+      <TR><TD PORT="Description" COLSPAN="3" ALIGN="LEFT">Description</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/OpportunityStage.html"
+    tooltip="OpportunityStage"
+  ];
+}

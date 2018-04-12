@@ -1,0 +1,42 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "LoginHistory" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "LoginHistory" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">LoginHistory</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="UserId" COLSPAN="3" ALIGN="LEFT">UserId</TD></TR>
+      <TR><TD PORT="LoginTime" COLSPAN="3" ALIGN="LEFT">LoginTime</TD></TR>
+      <TR><TD PORT="LoginType" COLSPAN="3" ALIGN="LEFT">LoginType</TD></TR>
+      <TR><TD PORT="SourceIp" COLSPAN="3" ALIGN="LEFT">SourceIp</TD></TR>
+      <TR><TD PORT="LoginUrl" COLSPAN="3" ALIGN="LEFT">LoginUrl</TD></TR>
+      <TR><TD PORT="Browser" COLSPAN="3" ALIGN="LEFT">Browser</TD></TR>
+      <TR><TD PORT="Platform" COLSPAN="3" ALIGN="LEFT">Platform</TD></TR>
+      <TR><TD PORT="Status" COLSPAN="3" ALIGN="LEFT">Status</TD></TR>
+      <TR><TD PORT="Application" COLSPAN="3" ALIGN="LEFT">Application</TD></TR>
+      <TR><TD PORT="ClientVersion" COLSPAN="3" ALIGN="LEFT">ClientVersion</TD></TR>
+      <TR><TD PORT="ApiType" COLSPAN="3" ALIGN="LEFT">ApiType</TD></TR>
+      <TR><TD PORT="ApiVersion" COLSPAN="3" ALIGN="LEFT">ApiVersion</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/LoginHistory.html"
+    tooltip="LoginHistory"
+  ];
+}

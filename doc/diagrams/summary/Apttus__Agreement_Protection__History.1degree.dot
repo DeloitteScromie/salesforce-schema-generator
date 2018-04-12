@@ -1,0 +1,37 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "Apttus__Agreement_Protection__History" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "Apttus__Agreement_Protection__History" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">Apttus__Agreement_Protection__History</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="ParentId" COLSPAN="3" ALIGN="LEFT">ParentId</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="Field" COLSPAN="3" ALIGN="LEFT">Field</TD></TR>
+      <TR><TD PORT="OldValue" COLSPAN="3" ALIGN="LEFT">OldValue</TD></TR>
+      <TR><TD PORT="NewValue" COLSPAN="3" ALIGN="LEFT">NewValue</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/Apttus__Agreement_Protection__History.html"
+    tooltip="Apttus__Agreement_Protection__History"
+  ];
+}

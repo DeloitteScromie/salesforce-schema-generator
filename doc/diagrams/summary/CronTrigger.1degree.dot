@@ -1,0 +1,42 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "CronTrigger" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "CronTrigger" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">CronTrigger</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="NextFireTime" COLSPAN="3" ALIGN="LEFT">NextFireTime</TD></TR>
+      <TR><TD PORT="PreviousFireTime" COLSPAN="3" ALIGN="LEFT">PreviousFireTime</TD></TR>
+      <TR><TD PORT="State" COLSPAN="3" ALIGN="LEFT">State</TD></TR>
+      <TR><TD PORT="StartTime" COLSPAN="3" ALIGN="LEFT">StartTime</TD></TR>
+      <TR><TD PORT="EndTime" COLSPAN="3" ALIGN="LEFT">EndTime</TD></TR>
+      <TR><TD PORT="CronExpression" COLSPAN="3" ALIGN="LEFT">CronExpression</TD></TR>
+      <TR><TD PORT="TimeZoneSidKey" COLSPAN="3" ALIGN="LEFT">TimeZoneSidKey</TD></TR>
+      <TR><TD PORT="OwnerId" COLSPAN="3" ALIGN="LEFT">OwnerId</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="TimesTriggered" COLSPAN="3" ALIGN="LEFT">TimesTriggered</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/CronTrigger.html"
+    tooltip="CronTrigger"
+  ];
+}

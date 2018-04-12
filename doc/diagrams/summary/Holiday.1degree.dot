@@ -1,0 +1,50 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "Holiday" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "Holiday" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">Holiday</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="Description" COLSPAN="3" ALIGN="LEFT">Description</TD></TR>
+      <TR><TD PORT="IsAllDay" COLSPAN="3" ALIGN="LEFT">IsAllDay</TD></TR>
+      <TR><TD PORT="ActivityDate" COLSPAN="3" ALIGN="LEFT">ActivityDate</TD></TR>
+      <TR><TD PORT="StartTimeInMinutes" COLSPAN="3" ALIGN="LEFT">StartTimeInMinutes</TD></TR>
+      <TR><TD PORT="EndTimeInMinutes" COLSPAN="3" ALIGN="LEFT">EndTimeInMinutes</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="IsRecurrence" COLSPAN="3" ALIGN="LEFT">IsRecurrence</TD></TR>
+      <TR><TD PORT="RecurrenceStartDate" COLSPAN="3" ALIGN="LEFT">RecurrenceStartDate</TD></TR>
+      <TR><TD PORT="RecurrenceEndDateOnly" COLSPAN="3" ALIGN="LEFT">RecurrenceEndDateOnly</TD></TR>
+      <TR><TD PORT="RecurrenceType" COLSPAN="3" ALIGN="LEFT">RecurrenceType</TD></TR>
+      <TR><TD PORT="RecurrenceInterval" COLSPAN="3" ALIGN="LEFT">RecurrenceInterval</TD></TR>
+      <TR><TD PORT="RecurrenceDayOfWeekMask" COLSPAN="3" ALIGN="LEFT">RecurrenceDayOfWeekMask</TD></TR>
+      <TR><TD PORT="RecurrenceDayOfMonth" COLSPAN="3" ALIGN="LEFT">RecurrenceDayOfMonth</TD></TR>
+      <TR><TD PORT="RecurrenceInstance" COLSPAN="3" ALIGN="LEFT">RecurrenceInstance</TD></TR>
+      <TR><TD PORT="RecurrenceMonthOfYear" COLSPAN="3" ALIGN="LEFT">RecurrenceMonthOfYear</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/Holiday.html"
+    tooltip="Holiday"
+  ];
+}

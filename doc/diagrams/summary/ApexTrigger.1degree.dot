@@ -1,0 +1,52 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "ApexTrigger" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "ApexTrigger" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">ApexTrigger</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="NamespacePrefix" COLSPAN="3" ALIGN="LEFT">NamespacePrefix</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="TableEnumOrId" COLSPAN="3" ALIGN="LEFT">TableEnumOrId</TD></TR>
+      <TR><TD PORT="UsageBeforeInsert" COLSPAN="3" ALIGN="LEFT">UsageBeforeInsert</TD></TR>
+      <TR><TD PORT="UsageAfterInsert" COLSPAN="3" ALIGN="LEFT">UsageAfterInsert</TD></TR>
+      <TR><TD PORT="UsageBeforeUpdate" COLSPAN="3" ALIGN="LEFT">UsageBeforeUpdate</TD></TR>
+      <TR><TD PORT="UsageAfterUpdate" COLSPAN="3" ALIGN="LEFT">UsageAfterUpdate</TD></TR>
+      <TR><TD PORT="UsageBeforeDelete" COLSPAN="3" ALIGN="LEFT">UsageBeforeDelete</TD></TR>
+      <TR><TD PORT="UsageAfterDelete" COLSPAN="3" ALIGN="LEFT">UsageAfterDelete</TD></TR>
+      <TR><TD PORT="UsageIsBulk" COLSPAN="3" ALIGN="LEFT">UsageIsBulk</TD></TR>
+      <TR><TD PORT="UsageAfterUndelete" COLSPAN="3" ALIGN="LEFT">UsageAfterUndelete</TD></TR>
+      <TR><TD PORT="ApiVersion" COLSPAN="3" ALIGN="LEFT">ApiVersion</TD></TR>
+      <TR><TD PORT="Status" COLSPAN="3" ALIGN="LEFT">Status</TD></TR>
+      <TR><TD PORT="IsValid" COLSPAN="3" ALIGN="LEFT">IsValid</TD></TR>
+      <TR><TD PORT="BodyCrc" COLSPAN="3" ALIGN="LEFT">BodyCrc</TD></TR>
+      <TR><TD PORT="Body" COLSPAN="3" ALIGN="LEFT">Body</TD></TR>
+      <TR><TD PORT="LengthWithoutComments" COLSPAN="3" ALIGN="LEFT">LengthWithoutComments</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/ApexTrigger.html"
+    tooltip="ApexTrigger"
+  ];
+}

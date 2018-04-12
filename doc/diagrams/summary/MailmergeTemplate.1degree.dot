@@ -1,0 +1,46 @@
+// dot 2.40.1 on Mac OS X 10.12.6
+// SchemaSpy rev 590
+digraph "MailmergeTemplate" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Arial"
+    fontsize="8"
+  ];
+  node [
+    fontname="Arial"
+    fontsize="8"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "MailmergeTemplate" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">MailmergeTemplate</TD></TR>
+      <TR><TD PORT="Id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">Id</TD></TR>
+      <TR><TD PORT="IsDeleted" COLSPAN="3" ALIGN="LEFT">IsDeleted</TD></TR>
+      <TR><TD PORT="Name" COLSPAN="3" ALIGN="LEFT">Name</TD></TR>
+      <TR><TD PORT="Description" COLSPAN="3" ALIGN="LEFT">Description</TD></TR>
+      <TR><TD PORT="Filename" COLSPAN="3" ALIGN="LEFT">Filename</TD></TR>
+      <TR><TD PORT="BodyLength" COLSPAN="3" ALIGN="LEFT">BodyLength</TD></TR>
+      <TR><TD PORT="Body" COLSPAN="3" ALIGN="LEFT">Body</TD></TR>
+      <TR><TD PORT="LastUsedDate" COLSPAN="3" ALIGN="LEFT">LastUsedDate</TD></TR>
+      <TR><TD PORT="CreatedDate" COLSPAN="3" ALIGN="LEFT">CreatedDate</TD></TR>
+      <TR><TD PORT="CreatedById" COLSPAN="3" ALIGN="LEFT">CreatedById</TD></TR>
+      <TR><TD PORT="LastModifiedDate" COLSPAN="3" ALIGN="LEFT">LastModifiedDate</TD></TR>
+      <TR><TD PORT="LastModifiedById" COLSPAN="3" ALIGN="LEFT">LastModifiedById</TD></TR>
+      <TR><TD PORT="SystemModstamp" COLSPAN="3" ALIGN="LEFT">SystemModstamp</TD></TR>
+      <TR><TD PORT="SecurityOptionsAttachmentScannedForXSS" COLSPAN="3" ALIGN="LEFT">SecurityOptionsAttachmentScannedForXSS</TD></TR>
+      <TR><TD PORT="SecurityOptionsAttachmentHasXSSThreat" COLSPAN="3" ALIGN="LEFT">SecurityOptionsAttachmentHasXSSThreat</TD></TR>
+      <TR><TD PORT="SecurityOptionsAttachmentScannedforFlash" COLSPAN="3" ALIGN="LEFT">SecurityOptionsAttachmentScannedforFlash</TD></TR>
+      <TR><TD PORT="SecurityOptionsAttachmentHasFlash" COLSPAN="3" ALIGN="LEFT">SecurityOptionsAttachmentHasFlash</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/MailmergeTemplate.html"
+    tooltip="MailmergeTemplate"
+  ];
+}
